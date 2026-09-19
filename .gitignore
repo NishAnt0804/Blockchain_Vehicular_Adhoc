@@ -7,3 +7,4 @@ build/
 .env
 .venv/
 *.png
+!simulation_results.png
